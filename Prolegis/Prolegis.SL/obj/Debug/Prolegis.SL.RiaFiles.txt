@@ -1,0 +1,2 @@
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.SL
+Generated_Code\Prolegis.Web.g.cs

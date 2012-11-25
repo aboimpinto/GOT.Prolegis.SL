@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prolegis.SL", "Prolegis.SL\Prolegis.SL.csproj", "{145A3015-F867-4F62-AC76-7293E71C3EF6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BCB687DB-E6AA-4576-BA1F-F25EAE438075} = {BCB687DB-E6AA-4576-BA1F-F25EAE438075}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prolegis.Web", "Prolegis.Web\Prolegis.Web.csproj", "{BCB687DB-E6AA-4576-BA1F-F25EAE438075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145A3015-F867-4F62-AC76-7293E71C3EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145A3015-F867-4F62-AC76-7293E71C3EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145A3015-F867-4F62-AC76-7293E71C3EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145A3015-F867-4F62-AC76-7293E71C3EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB687DB-E6AA-4576-BA1F-F25EAE438075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB687DB-E6AA-4576-BA1F-F25EAE438075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB687DB-E6AA-4576-BA1F-F25EAE438075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB687DB-E6AA-4576-BA1F-F25EAE438075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

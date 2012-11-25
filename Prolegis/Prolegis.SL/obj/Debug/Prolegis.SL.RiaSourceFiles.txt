@@ -1,0 +1,1 @@
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\Prolegis.Web.csproj,634894115350417744,Properties\AssemblyInfo.cs,

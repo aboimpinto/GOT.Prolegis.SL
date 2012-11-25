@@ -1,0 +1,5 @@
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\bin\Prolegis.Web.dll
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\bin\Prolegis.Web.pdb
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\obj\Debug\Prolegis.Web.csprojResolveAssemblyReference.cache
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\obj\Debug\Prolegis.Web.dll
+C:\myDevelop\GOT.Prolegis.SL\Prolegis\Prolegis.Web\obj\Debug\Prolegis.Web.pdb
